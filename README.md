@@ -4,8 +4,6 @@
 
 
 <img src="Covid19_Leaflet_Image.JPG" alt="Here's a sneak peak">
-Here is the interactive Version
-<a href="file:///C:/Users/zhena/LeafletMap/covid19/index.html">Visit our HTML tutorial</a>
 
 This visual map was created using the twitter APi crawler we used in the previous labs. I wanted to see the amount of Coronavirus tweets as the pandemic seems to get better.
 
