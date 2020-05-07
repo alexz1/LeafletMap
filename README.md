@@ -1,9 +1,11 @@
-# LeafletMap
+# Leaflet Map
 
-<h1>Coronavirus Twitter Talk (Leaflet)</h1>
+<h1>Coronavirus Twitter Talk (Leaflet Interactive)</h1>
 
 
 <img src="Covid19_Leaflet_Image.JPG" alt="Here's a sneak peak">
+
+<a href="https://alexz1.github.io/LeafletMap/covid19/index.html">Link to Interactive Map</a>
 
 This visual map was created using the twitter APi crawler we used in the previous labs. I wanted to see the amount of Coronavirus tweets as the pandemic seems to get better.
 
